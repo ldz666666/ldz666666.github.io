@@ -1,0 +1,6 @@
+@article{ma2020must,
+  title={MUST-GAN: Multi-level Statistics Transfer for Self-driven Person Image Generation},
+  author={Ma, Tianxiang and Peng, Bo and Wang, Wei and Dong, Jing},
+  journal={arXiv preprint arXiv:2011.09084},
+  year={2020}
+}
