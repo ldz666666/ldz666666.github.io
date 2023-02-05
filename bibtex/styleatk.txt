@@ -1,0 +1,7 @@
+@inproceedings{li2021exploring,
+  title={Exploring adversarial fake images on face manifold},
+  author={Li, Dongze and Wang, Wei and Fan, Hongxing and Dong, Jing},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={5789--5798},
+  year={2021}
+}
